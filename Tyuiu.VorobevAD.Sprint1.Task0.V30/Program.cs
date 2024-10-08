@@ -23,7 +23,8 @@ namespace Tyuiu.VorobevAD.Sprint0.Task0.V30
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine(DataService.SetCount());
+            DataService obj = new DataService();
+            Console.WriteLine(obj.Calculate());
         }
     }
 }

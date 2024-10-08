@@ -8,7 +8,8 @@ namespace Tyuiu.VorobevAD.Sprint0.Task0.V30.Test
         [TestMethod]
         public void CheckValidSetCount()
         {
-            Assert.AreEqual(DataService.SetCount(), 96);
+            DataService obj = new DataService();
+            Assert.AreEqual(obj.Calculate(), 96);
         }
     }
 }
