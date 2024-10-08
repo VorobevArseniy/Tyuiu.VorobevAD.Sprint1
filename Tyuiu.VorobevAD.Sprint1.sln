@@ -5,11 +5,11 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{0865865B-9D61-4BBF-8309-3186C478E6A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VorobevAD.Sprint0.Task0.V30", "Tyuiu.VorobevAD.Sprint0.Task0.V30\Tyuiu.VorobevAD.Sprint0.Task0.V30.csproj", "{BB30BA7A-E9DB-4035-8DFE-19D2A601D51B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VorobevAD.Sprint1.Task0.V30", "Tyuiu.VorobevAD.Sprint0.Task0.V30\Tyuiu.VorobevAD.Sprint1.Task0.V30.csproj", "{BB30BA7A-E9DB-4035-8DFE-19D2A601D51B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VorobevAD.Sprint0.Task0.V30.Lib", "Tyuiu.VorobevAD.Sprint0.Task0.V30.Lib\Tyuiu.VorobevAD.Sprint0.Task0.V30.Lib.csproj", "{B3E600BB-7E50-48F0-B37A-D1D4D5FC9760}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VorobevAD.Sprint1.Task0.V30.Lib", "Tyuiu.VorobevAD.Sprint0.Task0.V30.Lib\Tyuiu.VorobevAD.Sprint1.Task0.V30.Lib.csproj", "{B3E600BB-7E50-48F0-B37A-D1D4D5FC9760}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VorobevAD.Sprint0.Task0.V30.Test", "Tyuiu.VorobevAD.Sprint0.Task0.V30.Test\Tyuiu.VorobevAD.Sprint0.Task0.V30.Test.csproj", "{3DC28731-9946-4DC7-80FA-85F68046AA3C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VorobevAD.Sprint1.Task0.V30.Test", "Tyuiu.VorobevAD.Sprint0.Task0.V30.Test\Tyuiu.VorobevAD.Sprint1.Task0.V30.Test.csproj", "{3DC28731-9946-4DC7-80FA-85F68046AA3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
