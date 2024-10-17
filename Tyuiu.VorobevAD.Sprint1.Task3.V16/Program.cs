@@ -1,6 +1,6 @@
-﻿using Tyuiu.VorobevAD.Sprint1.Task2.V20.Lib;
+﻿using Tyuiu.VorobevAD.Sprint1.Task3.V16.Lib;
 
-namespace Tyuiu.VorobevAD.Sprint1.Task2.V20
+namespace Tyuiu.VorobevAD.Sprint1.Task3.V16
 {
     internal class Program
     {
@@ -13,7 +13,7 @@ namespace Tyuiu.VorobevAD.Sprint1.Task2.V20
             Console.WriteLine("Введите второе число: ");
             int y = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Ответ: " + obj.CalculateSquaresSumm(x, y));
+            Console.WriteLine("Ответ: " + obj.CoeffOfQuadraticEquation(x, y));
             Console.WriteLine("Сделал Воробьев Арсений РППб-24-1");
         }
     }
