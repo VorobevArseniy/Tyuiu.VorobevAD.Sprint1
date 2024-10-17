@@ -1,4 +1,4 @@
-using Tyuiu.VorobevAD.Sprint1.Task4.V7.Lib
+using Tyuiu.VorobevAD.Sprint1.Task4.V7.Lib;
 
 namespace Tyuiu.VorobevAD.Sprint1.Task4.V7.Test
 {
