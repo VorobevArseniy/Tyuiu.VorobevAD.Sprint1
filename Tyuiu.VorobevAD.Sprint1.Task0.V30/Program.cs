@@ -25,18 +25,6 @@ namespace Tyuiu.VorobevAD.Sprint0.Task0.V30
             Console.WriteLine("***************************************************************************");
             DataService obj = new DataService();
             Console.WriteLine(obj.Calculate());
-
-            int i = 1;
-
-            int j = i++;
-
-            int k = ++j;
-
-            Console.Write("i=" + i + "\\");
-
-            Console.Write("j=" + j);
-
-            Console.Write("k=" + k);
         }
     }
 }
