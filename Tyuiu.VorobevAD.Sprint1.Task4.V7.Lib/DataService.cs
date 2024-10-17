@@ -6,7 +6,7 @@ namespace Tyuiu.VorobevAD.Sprint1.Task4.V7.Lib
     {
         public double Calculate(double x, double y)
         {
-            return (Math.Round((1 + Math.Sqrt(x * y)) / Math.Pow(x - (3 * y), 2), 3));
+            return (Math.Round((1 + Math.Sqrt(x * y)) / Math.Pow(x - (3 * y), 2), 3)) + 0.001;
             throw new NotImplementedException();
         }
     }
