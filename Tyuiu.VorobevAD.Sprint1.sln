@@ -39,9 +39,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task4", "Task4", "{74743971
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.VorobevAD.Sprint1.Task4.V7", "Tyuiu.VorobevAD.Sprint1.Task4.V7\Tyuiu.VorobevAD.Sprint1.Task4.V7.csproj", "{74C1E248-70FF-4450-B938-9C4E8079826F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VorobevAD.Sprint1.Task4.V7.Lib", "Tyuiu.VorobevAD.Sprint1.Task4.V7.Lib\Tyuiu.VorobevAD.Sprint1.Task4.V7.Lib.csproj", "{185FBEAF-AA1C-47BC-93D6-60CA0BDDEA1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.VorobevAD.Sprint1.Task4.V7.Lib", "Tyuiu.VorobevAD.Sprint1.Task4.V7.Lib\Tyuiu.VorobevAD.Sprint1.Task4.V7.Lib.csproj", "{185FBEAF-AA1C-47BC-93D6-60CA0BDDEA1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VorobevAD.Sprint1.Task4.V7.Test", "Tyuiu.VorobevAD.Sprint1.Task4.V7.Test\Tyuiu.VorobevAD.Sprint1.Task4.V7.Test.csproj", "{3C961347-BA4F-4D87-9B31-F2E1A7491D6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.VorobevAD.Sprint1.Task4.V7.Test", "Tyuiu.VorobevAD.Sprint1.Task4.V7.Test\Tyuiu.VorobevAD.Sprint1.Task4.V7.Test.csproj", "{3C961347-BA4F-4D87-9B31-F2E1A7491D6B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task5", "Task5", "{C51A4B6D-B073-48EC-8F29-82556F6F1B21}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task6", "Task6", "{ED7A5134-BAF3-4464-8E38-AA3164A1C2BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task7", "Task7", "{31405F45-C5F5-4FE6-9F6A-6AC28955C73C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
