@@ -2,7 +2,7 @@
 
 namespace Tyuiu.VorobevAD.Sprint1.Task5.V6.Lib
 {
-    public class Class1 : tyuiu.cources.programming.interfaces.Sprint1.ISprint1Task5V6
+    public class DataService : tyuiu.cources.programming.interfaces.Sprint1.ISprint1Task5V6
     {
         public int Calculate(int k)
         {
